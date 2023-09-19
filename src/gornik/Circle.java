@@ -1,2 +1,4 @@
-package gornik;public class Circle {
+package gornik;
+
+public class Circle {
 }

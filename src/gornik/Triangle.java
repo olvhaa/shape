@@ -1,2 +1,4 @@
-package gornik;public class Triangle {
+package gornik;
+
+public class Triangle {
 }
