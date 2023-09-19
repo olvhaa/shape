@@ -7,6 +7,6 @@ public class Main {
         System.out.println(square.getSideSquare());
         System.out.println(square);
 
-
+bgfuytafjha
     }
 }
